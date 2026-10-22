@@ -44,17 +44,6 @@ Four cards introducing the main areas of the framework: Experience, Social, Stru
 ⭐ **Contextual-element cards**
 Sixteen cards, each describing a contextual element and offering prompts to support reflection and discussion.
 
-## Repository Structure
-
-<!-- Update the file names below to match what you upload -->
-
-```
-stargazer-map/
-├── stargazer-map.pdf
-├── nebula-cards/
-└── contextual-element-cards/
-```
-
 ## How to Use the Toolkit
 
 1. Explore the four nebula cards to familiarise yourself with the framework.

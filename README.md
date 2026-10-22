@@ -1,4 +1,5 @@
-# The Stargazer Map
+<img width="1080" height="129" alt="Repos_Banners_stargazer" src="https://github.com/user-attachments/assets/40eac1f6-6fce-4a7a-859e-67eec819f86a" />
+
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

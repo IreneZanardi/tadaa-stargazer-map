@@ -71,7 +71,7 @@ If you use or adapt the Stargazer Map, please cite:
 
 Or:
 
-Zanardi, I. (2026). *The Stargazer Map: a Toolkit* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.23590697
+Zanardi, I. (2026). *The Stargazer Map: a Toolkit* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.23590697
 
 ## Related Publication
 

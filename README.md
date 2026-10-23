@@ -1,7 +1,7 @@
 <img width="1080" height="129" alt="Repos_Banners_stargazer" src="https://github.com/user-attachments/assets/40eac1f6-6fce-4a7a-859e-67eec819f86a" />
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1429827910.svg)](https://doi.org/10.5281/zenodo.23590697)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## About
@@ -65,13 +65,13 @@ If you use or adapt the Stargazer Map, please cite:
   title = {The Stargazer Map: a Toolkit},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.23590698}
 }
 ```
 
 Or:
 
-Zanardi, I. (2026). *The Stargazer Map: a Toolkit* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Zanardi, I. (2026). *The Stargazer Map: a Toolkit* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.23590697
 
 ## Related Publication
 

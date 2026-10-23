@@ -62,7 +62,7 @@ If you use or adapt the Stargazer Map, please cite:
 ```bibtex
 @misc{zanardi2026stargazer,
   author = {Zanardi, Irene},
-  title = {The Stargazer Map: a Toolkit for Reflecting on, Analysing, and Reporting Participatory Sessions with Children},
+  title = {The Stargazer Map: a Toolkit},
   year = {2026},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.XXXXXXX}
@@ -71,7 +71,7 @@ If you use or adapt the Stargazer Map, please cite:
 
 Or:
 
-Zanardi, I. (2026). *The Stargazer Map: a Toolkit for Reflecting on, Analysing, and Reporting Participatory Sessions with Children* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Zanardi, I. (2026). *The Stargazer Map: a Toolkit* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 ## Related Publication
 
